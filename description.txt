@@ -1,0 +1,41 @@
+
+
+---
+
+## Custom Widget: Location and Battery Info
+
+### Description
+
+The Location and Battery Info widget is a valuable addition to the Planner App as it provides users with essential information about their current location and battery status. This widget offers convenience and enhances the overall user experience by integrating useful functionalities.
+
+### Features
+
+1. Location Information: The widget fetches the user's location based on their IP address, providing details such as country, city, latitude, and longitude. This information can be beneficial for users who need to plan their activities based on their current location.
+
+2. Battery Life Details: The widget displays the battery percentage, charging status, and estimated charging time. Users can monitor their battery levels and plan their tasks accordingly to ensure uninterrupted usage of the app.
+
+### How to Use
+
+1. Adding the Widget: To add the Location and Battery Info widget to the Planner App, open the Widget Gallery modal by clicking on the "+" icon. Scroll through the available widgets and select the "Location and Battery Info" option.
+
+2. Viewing Location Information: Once added, the widget will display the user's current country, city, latitude, and longitude. This information is updated automatically based on the user's IP address.
+
+3. Checking Battery Life: The widget also shows the battery percentage, charging status, and estimated charging time. Users can monitor their battery levels and charging status to ensure their device is adequately charged.
+
+4. Customization: Users can resize and reposition the widget within the app's widget areas to suit their preferences.
+
+### Benefits
+
+The Location and Battery Info widget offers several advantages:
+
+- Convenient Access: Users can quickly access location and battery information without navigating through separate apps or settings.
+
+- Task Planning: By knowing their current location, users can plan their activities, schedule events, and make location-based decisions efficiently.
+
+- Battery Management: Monitoring battery levels and charging status helps users optimize their device usage and plan tasks accordingly to avoid unexpected shutdowns.
+
+- Personalization: The widget's resizable and repositionable nature allows users to customize their Planner App layout and create a personalized user interface.
+
+Overall, the Location and Battery Info widget brings practicality, convenience, and personalization to the Planner App, enhancing the user experience and empowering users with valuable information.
+
+---
